@@ -1,6 +1,6 @@
-#PixPainter
+# PixPainter
 Create by KKoishi_
-###A Java picture drawer
+### A Java picture drawer
 The way to draw picture is input code in the terminal(Actually, it is JTextArea)
 
 Also,it supports script file,like this(create an undirected-graph):
