@@ -42,5 +42,33 @@ Cautions:
 * Now it only supports png format,maybe I will add more export format-supporting soon.
 * You can use "list" to check all the commands.
 
-##Display
+commands:
+*    create [width] [height] [name]√
+*    setfont [name:null] bold/plain/italic [size]√
+*    setcolor [color]√
+*    draw -circle/-line/-ellipse/-rect [x1] [y1] [x2] [y2]
+*    drawcircle [x] [y] [r]√
+*    fill circle/-ellipse/-rect [x1] [y2] [x2] [y2]
+*    drawpline [amount-point] [x] [y]...
+*    drawrect [amount-point] [x] [y]...
+*    fillp [amount-point] [x] [y]...
+*    drawpoint [x] [y]√
+*    exportformat jpg/png/jepg√
+*    drawpic [x] [y] (Optional param:[w] [h]) [path]
+*    drawcurel [x1] [x2] [func] -> hard
+*    drawefunc [-sin/-cos/-tan/-csc/-sec/-cot/-asin/-acos/-atan/-sqrt/-cube/-exp/-log/-ln/-square] [x1] [x2] [size-y] [dy=size/2]
+*    drawstring [x] [y] [string]
+*   help [-[command]]
+*    changedir [dir]
+*    kshell [path]
+*    preview
+*    list
+*    exit
+*    settings
+*    info
+*    logs
+*    logbrowse
+*    export√
+
+## Display
 ![img.png](img.png)
