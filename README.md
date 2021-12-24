@@ -7,7 +7,10 @@ Also,it supports script file,like this(create an undirected-graph):
 
 Upgrade:2021/12/24 10:40
 add kGraph file type.
+
 now you can use ```node``` and ```direct``` to draw a directed graph faster.
+
+you can check the syntax of the script by invoking```check```
 
 ![use the PixPainter to draw](./rua.png "A example of undirected-graph")
 ```pixScript
@@ -80,6 +83,7 @@ commands:
 *    node -circle [x] [y] [r] [string]√
 *    node -rect/-ellipse [x] [y] [w] [h] [string]√
 *    direct [x1] [y1] [x2] [y2] [branch-len=20] [degree=30°]√
+*    check [script path]
 
 ## kGraph file example
 ```kGraph
