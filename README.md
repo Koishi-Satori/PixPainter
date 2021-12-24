@@ -4,6 +4,9 @@ Create by KKoishi_
 The way to draw picture is input code in the terminal(Actually, it is JTextArea)
 
 Also,it supports script file,like this(create an undirected-graph):
+Upgrade:2021/12/24 10:40
+add kGraph file type.
+now you can use ```node``` and ```direct``` to draw a directed graph faster.
 
 ![use the PixPainter to draw](./rua.png "A example of undirected-graph")
 ```pixScript
@@ -71,11 +74,11 @@ commands:
 *    logs√
 *    logbrowse√
 *    export√
-*    gcc [kgraph file]
-*    get
-*    node -circle [x] [y] [r] [string]
-*    node -rect/-ellipse [x] [y] [w] [h] [string]
-*    direct [x1] [y1] [x2] [y2] [branch-len=20] [degree=30°]
+*    gcc [kgraph file]√
+*    get√
+*    node -circle [x] [y] [r] [string]√
+*    node -rect/-ellipse [x] [y] [w] [h] [string]√
+*    direct [x1] [y1] [x2] [y2] [branch-len=20] [degree=30°]√
 
 ## kGraph file example
 ```kGraph
