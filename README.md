@@ -1,7 +1,7 @@
 # PixPainter
 Create by KKoishi_
 
-My homepage:http://koishi-514.top
+My homepage:http://kkoishi-514.top
 
 ### A Java picture drawer
 The way to draw picture is input code in the terminal(Actually, it is JTextArea)
