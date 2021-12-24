@@ -15,7 +15,6 @@ public class Settings extends JFrame {
         koishiReader.read();
         entries.addAll(koishiReader.get());
         koishiReader.clear();
-
     }
     /**
      * Constructs a new frame that is initially invisible.

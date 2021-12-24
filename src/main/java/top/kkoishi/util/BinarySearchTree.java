@@ -372,9 +372,5 @@ class BstTest {
         bst.set(-1, 13);
         out.println(bst.midOrderTraversal());
         bst.clear();
-        for (int i = 1; i < 11;i ++) {
-            bst.add(i);
-        }
-        out.println(bst.midOrderTraversal());
     }
 }

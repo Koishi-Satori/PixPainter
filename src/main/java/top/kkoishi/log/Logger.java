@@ -6,6 +6,9 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Calendar;
 
+/**
+ * @author KKoishi_
+ */
 public abstract class Logger {
     protected File logDir;
     protected static Logger logger = new DefaultLogger();
@@ -54,8 +57,12 @@ public abstract class Logger {
             File f = new File(logDir.getAbsolutePath() + "/" + str);
             System.out.println(f.getAbsolutePath());
             try {
-                f.createNewFile();
-                Files.DefaultFiles.access.write(f, content + "\n");
+                if (!f.exists()) {
+                    f.createNewFile();
+                    Files.DefaultFiles.access.write(f, content + "\n");
+                } else {
+                    Files.DefaultFiles.access.append(f, content + "\n");
+                }
                 Files.DefaultFiles.access.append(new File("./all.log"), content + "\n");
             } catch (IOException e) {
                 e.printStackTrace();

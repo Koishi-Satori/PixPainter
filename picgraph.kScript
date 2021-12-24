@@ -1,6 +1,6 @@
-create 1000 1000 rua;
+create 1000 1000 Graph;
 changedir C:/Users/DELL/Desktop;
-setFont null plain 30;
+setfont null plain 20;
 setcolor red;
 drawcircle 500 50 50;
 drawcircle 340 200 50;
@@ -17,19 +17,8 @@ draw -line 530 90 630 160;
 draw -line 310 240 210 310;
 draw -line 370 240 470 310;
 draw -line 690 240 790 310;
-setcolor Pink;
+setcolor pink;
 drawpline 5 180 400 500 700 500 400 500 700 340 250;
 drawpline 4 500 700 820 400 500 700 770 600;
 draw -line 550 350 770 350;
-drawstring 500 50 start;
-drawstring 340 200 a1;
-drawstring 660 200 a2;
-drawstring 180 350 b1;
-drawstring 500 350 b2;
-drawstring 820 350 b3;
-drawstring 820 600 rua~~;
-drawstring 500 800 end;
-draw -rect 1 1 999 999;
 export;
-
-

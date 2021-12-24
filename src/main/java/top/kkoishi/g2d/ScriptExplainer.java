@@ -9,9 +9,8 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
 
-import static java.lang.System.out;
-
 /**
+ * Execute script
  * @author KKoishi_
  */
 public class ScriptExplainer {
@@ -50,7 +49,9 @@ public class ScriptExplainer {
     public void execute () {
         for (String token : tokens) {
             String command = token.replaceAll("\n", "").replaceAll("\r", "");
-            out.print(command + "|");
+            if (command.matches("\\s*")) {
+                continue;
+            }
             api.execute(command);
             String call = api.getCall();
             calls.add(call);

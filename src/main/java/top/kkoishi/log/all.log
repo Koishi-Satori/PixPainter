@@ -814,3 +814,657 @@ top.kkoishi.g2d.PaintApi.analysis(PaintApi.java:184)
 [2021/11/23 9:35:49]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\newpix.png
 [2021/11/23 9:36:0]top.kkoishi.log.Event: Execute and draw the function:-sin x
 [2021/11/23 9:36:2]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 12:46:31]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\2.png
+[2021/11/23 12:46:52]top.kkoishi.log.Event: The export file type has been set to ".jpg"
+[2021/11/23 12:46:57]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 12:49:35]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\2.png
+[2021/11/23 12:49:47]top.kkoishi.log.Event: The export file type has been set to ".jpg"
+[2021/11/23 12:50:1]top.kkoishi.log.Event:Draw circle(radix = 100) at (100,100)
+[2021/11/23 12:50:7]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 17:13:9]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\test.png
+[2021/11/23 17:13:44]top.kkoishi.log.Event:Draw a circle shape node with the string "rue"
+[2021/11/23 17:15:54]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 17:19:59]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\test.png
+[2021/11/23 17:21:0]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 17:21:15]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\test.png
+[2021/11/23 17:21:27]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 17:25:36]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\test.png
+[2021/11/23 17:25:44]top.kkoishi.log.Event: The export file type has been set to ".jpg"
+[2021/11/23 17:26:8]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 17:27:24]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\test.png
+[2021/11/23 17:27:42]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 17:28:29]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\test.png
+[2021/11/23 17:28:43]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 17:37:35]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\test.png
+[2021/11/23 17:38:2]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 17:38:55]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\test.png
+[2021/11/23 17:39:40]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 17:40:23]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\newpix.png
+[2021/11/23 17:40:33]top.kkoishi.log.Event: The export file type has been set to ".jpg"
+[2021/11/23 17:40:53]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 17:42:18]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\newpix.jpg
+[2021/11/23 17:42:24]top.kkoishi.log.Event: The export file type has been set to ".jepg"
+[2021/11/23 17:43:53]top.kkoishi.log.Event:Draw a rectangle shape node with the string "str"
+[2021/11/23 17:43:57]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 17:44:36]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\jjj.jepg
+[2021/11/23 17:44:38]top.kkoishi.log.Event:Draw a rectangle shape node with the string "str"
+[2021/11/23 17:44:51]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 17:44:53]top.kkoishi.log.Event:Draw a rectangle shape node with the string "str"
+[2021/11/23 17:53:21]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\rue.png
+[2021/11/23 18:19:59]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\newpix.png
+[2021/11/23 18:20:9]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 18:20:11]top.kkoishi.log.Event:Current State:
+	Color=java.awt.Color[r=255,g=0,b=0]
+	Font=java.awt.Font[family=Dialog,name=Dialog,style=plain,size=12]
+	Size=top.kkoishi.Dimension[200, 200
+	Location=D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\newpix.png
+[2021/11/23 18:20:29]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=255,g=0,b=0]
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\rua.png
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Success to set font
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,50)
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=0]
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:22:42]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:22:42]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:22:42]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:22:42]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:22:42]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=175,b=175]
+[2021/11/23 18:22:42]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 18:22:42]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 18:22:42]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Draw the string "start"
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Draw the string "a1"
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Draw the string "a2"
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Draw the string "b1"
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Draw the string "b2"
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Draw the string "b3"
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Draw the string "rua~~"
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Draw the string "end"
+[2021/11/23 18:22:42]top.kkoishi.log.Error: Draw a rectangle with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 18:22:42]top.kkoishi.log.Error: Draw a rectangle with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 18:22:42]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\rua.png
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Success to set font
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,50)
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=0]
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:23:56]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:23:56]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:23:56]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:23:56]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:23:56]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=175,b=175]
+[2021/11/23 18:23:56]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 18:23:56]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 18:23:56]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Draw the string "start"
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Draw the string "a1"
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Draw the string "a2"
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Draw the string "b1"
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Draw the string "b2"
+[2021/11/23 18:23:56]top.kkoishi.log.Event:Draw the string "b3"
+[2021/11/23 18:23:57]top.kkoishi.log.Event:Draw the string "rua~~"
+[2021/11/23 18:23:57]top.kkoishi.log.Event:Draw the string "end"
+[2021/11/23 18:23:57]top.kkoishi.log.Error: Draw a rectangle with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 18:23:57]top.kkoishi.log.Error: Draw a rectangle with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 18:23:57]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\rua.png
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Success to set font
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,50)
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=0]
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:25:9]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:25:9]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:25:9]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:25:9]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:25:9]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=175,b=175]
+[2021/11/23 18:25:9]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 18:25:9]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 18:25:9]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Draw the string "start"
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Draw the string "a1"
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Draw the string "a2"
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Draw the string "b1"
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Draw the string "b2"
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Draw the string "b3"
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Draw the string "rua~~"
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Draw the string "end"
+[2021/11/23 18:25:9]top.kkoishi.log.Error: Draw a rectangle with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 18:25:9]top.kkoishi.log.Error: Draw a rectangle with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 18:25:9]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 18:26:29]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\null.png
+[2021/11/23 18:26:32]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 18:26:35]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\rua.png
+[2021/11/23 22:8:29]top.kkoishi.log.Event:The workspace has changed to c:/users/dell/desktop
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Success to set font
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,50)
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=0]
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:8:29]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:8:29]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:8:29]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:8:29]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:8:29]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=175,b=175]
+[2021/11/23 22:8:29]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 22:8:29]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 22:8:29]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Draw the string "start"
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Draw the string "a1"
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Draw the string "a2"
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Draw the string "b1"
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Draw the string "b2"
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Draw the string "b3"
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Draw the string "rua~~"
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Draw the string "end"
+[2021/11/23 22:8:29]top.kkoishi.log.Error: Draw a rectangle with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 22:8:29]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\rua.png
+[2021/11/23 22:10:3]top.kkoishi.log.Event:The workspace has changed to c:/users/dell/desktop
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Success to set font
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,50)
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=0]
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:10:3]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:10:3]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:10:3]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:10:3]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:10:3]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=175,b=175]
+[2021/11/23 22:10:3]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 22:10:3]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 22:10:3]top.kkoishi.log.Error: Draw a line with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Draw the string "start"
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Draw the string "a1"
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Draw the string "a2"
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Draw the string "b1"
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Draw the string "b2"
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Draw the string "b3"
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Draw the string "rua~~"
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Draw the string "end"
+[2021/11/23 22:10:3]top.kkoishi.log.Error: Draw a rectangle with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 22:10:3]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 22:15:46]top.kkoishi.log.Exception: You have not create a image:
+top.kkoishi.g2d.PaintApi.analysis(PaintApi.java:299)
+[2021/11/23 22:24:20]top.kkoishi.log.Exception: You have not create a image:
+top.kkoishi.g2d.PaintApi.analysis(PaintApi.java:299)
+[2021/11/23 22:24:59]top.kkoishi.log.Exception: You have not create a image:
+top.kkoishi.g2d.PaintApi.analysis(PaintApi.java:299)
+[2021/11/23 22:25:23]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\rua.png
+[2021/11/23 22:25:23]top.kkoishi.log.Event:The workspace has changed to C:/Users/DELL/Desktop
+[2021/11/23 22:25:23]top.kkoishi.log.Event:Success to set font
+[2021/11/23 22:25:23]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 22:25:23]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,50)
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=0]
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:24]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:24]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:24]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:24]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:24]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:24]top.kkoishi.log.Error: Error color type.
+
+[2021/11/23 22:25:24]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 22:25:24]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 22:25:24]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Draw the string "start"
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Draw the string "a1"
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Draw the string "a2"
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Draw the string "b1"
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Draw the string "b2"
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Draw the string "b3"
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Draw the string "rua~~"
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Draw the string "end"
+[2021/11/23 22:25:24]top.kkoishi.log.Event: Draw a rectangle with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:24]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\rua.png
+[2021/11/23 22:25:30]top.kkoishi.log.Event:The workspace has changed to C:/Users/DELL/Desktop
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Success to set font
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,50)
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=0]
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:30]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:30]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:30]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:30]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:30]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:30]top.kkoishi.log.Error: Error color type.
+
+[2021/11/23 22:25:30]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 22:25:30]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 22:25:30]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Draw the string "start"
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Draw the string "a1"
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Draw the string "a2"
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Draw the string "b1"
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Draw the string "b2"
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Draw the string "b3"
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Draw the string "rua~~"
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Draw the string "end"
+[2021/11/23 22:25:30]top.kkoishi.log.Event: Draw a rectangle with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:30]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 22:25:45]top.kkoishi.log.Exception: You have not create a image:
+top.kkoishi.g2d.PaintApi.analysis(PaintApi.java:299)
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\rua.png
+[2021/11/23 22:25:56]top.kkoishi.log.Event:The workspace has changed to C:/Users/DELL/Desktop
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Success to set font
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,50)
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=0]
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:56]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:56]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:56]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:56]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:56]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:56]top.kkoishi.log.Error: Error color type.
+
+[2021/11/23 22:25:56]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 22:25:56]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 22:25:56]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Draw the string "start"
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Draw the string "a1"
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Draw the string "a2"
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Draw the string "b1"
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Draw the string "b2"
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Draw the string "b3"
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Draw the string "rua~~"
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Draw the string "end"
+[2021/11/23 22:25:56]top.kkoishi.log.Event: Draw a rectangle with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:25:56]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 22:26:9]top.kkoishi.log.Exception: You have not create a image:
+top.kkoishi.g2d.PaintApi.analysis(PaintApi.java:299)
+[2021/11/23 22:26:29]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\rua.png
+[2021/11/23 22:26:29]top.kkoishi.log.Event:The workspace has changed to C:/Users/DELL/Desktop
+[2021/11/23 22:26:29]top.kkoishi.log.Event:Success to set font
+[2021/11/23 22:26:29]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 22:26:29]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,50)
+[2021/11/23 22:26:29]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=0]
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:26:30]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:26:30]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:26:30]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:26:30]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:26:30]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:26:30]top.kkoishi.log.Error: Error color type.
+
+[2021/11/23 22:26:30]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 22:26:30]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 22:26:30]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Draw the string "start"
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Draw the string "a1"
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Draw the string "a2"
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Draw the string "b1"
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Draw the string "b2"
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Draw the string "b3"
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Draw the string "rua~~"
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Draw the string "end"
+[2021/11/23 22:26:30]top.kkoishi.log.Event: Draw a rectangle with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:26:30]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 22:26:37]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\rua.png
+[2021/11/23 22:26:37]top.kkoishi.log.Event:The workspace has changed to C:/Users/DELL/Desktop
+[2021/11/23 22:26:37]top.kkoishi.log.Event:Success to set font
+[2021/11/23 22:26:37]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 22:26:37]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,50)
+[2021/11/23 22:26:37]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/23 22:26:37]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/23 22:26:37]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/23 22:26:37]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/23 22:26:37]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/23 22:26:37]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/23 22:26:37]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=0]
+[2021/11/23 22:26:37]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/23 22:26:37]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:26:37]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:26:37]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:26:37]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:26:37]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:26:38]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:26:38]top.kkoishi.log.Error: Error color type.
+
+[2021/11/23 22:26:38]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 22:26:38]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 22:26:38]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:26:38]top.kkoishi.log.Event:Draw the string "start"
+[2021/11/23 22:26:38]top.kkoishi.log.Event:Draw the string "a1"
+[2021/11/23 22:26:38]top.kkoishi.log.Event:Draw the string "a2"
+[2021/11/23 22:26:38]top.kkoishi.log.Event:Draw the string "b1"
+[2021/11/23 22:26:38]top.kkoishi.log.Event:Draw the string "b2"
+[2021/11/23 22:26:38]top.kkoishi.log.Event:Draw the string "b3"
+[2021/11/23 22:26:38]top.kkoishi.log.Event:Draw the string "rua~~"
+[2021/11/23 22:26:38]top.kkoishi.log.Event:Draw the string "end"
+[2021/11/23 22:26:38]top.kkoishi.log.Event: Draw a rectangle with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 22:26:38]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 22:26:46]top.kkoishi.log.Event: Invoke log func
+[2021/11/23 22:26:53]top.kkoishi.log.Event: Invoke log func
+[2021/11/23 23:32:21]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\Graph.png
+[2021/11/23 23:32:21]top.kkoishi.log.Event:The workspace has changed to C
+[2021/11/23 23:32:21]top.kkoishi.log.Event:Success to set font
+[2021/11/23 23:34:48]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\Graph.png
+[2021/11/23 23:34:48]top.kkoishi.log.Event:The workspace has changed to C
+[2021/11/23 23:34:48]top.kkoishi.log.Event:Success to set font
+[2021/11/23 23:34:48]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:34:48]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:34:48]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:34:49]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:34:49]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:34:49]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:35:16]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\Graph.png
+[2021/11/23 23:35:16]top.kkoishi.log.Event:The workspace has changed to C
+[2021/11/23 23:35:16]top.kkoishi.log.Event:Success to set font
+[2021/11/23 23:35:16]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:35:16]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:35:16]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:35:16]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:35:16]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:35:16]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 23:35:16]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 23:35:16]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:35:22]top.kkoishi.log.Exception: You have not create a image:
+top.kkoishi.g2d.PaintApi.analysis(PaintApi.java:321)
+[2021/11/23 23:35:56]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\Graph.png
+[2021/11/23 23:35:56]top.kkoishi.log.Event:The workspace has changed to C
+[2021/11/23 23:35:56]top.kkoishi.log.Event:Success to set font
+[2021/11/23 23:35:56]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:35:56]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:35:56]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:35:56]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:35:56]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:35:56]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 23:35:56]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 23:35:56]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:35:56]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 23:35:56]top.kkoishi.log.Exception: top.kkoishi.log.Exception:Export failed.
+Can't create an ImageOutputStream!
+[2021/11/23 23:38:34]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\Graph.png
+[2021/11/23 23:39:19]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\Graph.png
+[2021/11/23 23:39:19]top.kkoishi.log.Event:The workspace has changed to C:/Users/DELL/Desktop
+[2021/11/23 23:39:19]top.kkoishi.log.Event:Success to set font
+[2021/11/23 23:39:19]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:39:19]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:39:19]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:39:19]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:39:19]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:39:19]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 23:39:19]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 23:39:19]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:39:19]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 23:41:41]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\Graph.png
+[2021/11/23 23:41:41]top.kkoishi.log.Event:The workspace has changed to C:/Users/DELL/Desktop
+[2021/11/23 23:41:41]top.kkoishi.log.Event:Success to set font
+[2021/11/23 23:41:41]top.kkoishi.log.Event:Draw circle(radix = 0) at (500,50)
+[2021/11/23 23:41:41]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/23 23:41:41]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/23 23:41:41]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/23 23:41:42]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/23 23:41:42]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/23 23:41:42]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/23 23:41:42]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/23 23:41:42]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:41:42]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:41:42]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:41:42]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:41:42]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:41:42]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 23:41:42]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 23:41:42]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:41:42]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 23:44:20]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\Graph.png
+[2021/11/23 23:44:20]top.kkoishi.log.Event:The workspace has changed to C:/Users/DELL/Desktop
+[2021/11/23 23:44:20]top.kkoishi.log.Event:Success to set font
+[2021/11/23 23:44:20]top.kkoishi.log.Event:Draw circle(radix = 0) at (500,50)
+[2021/11/23 23:44:20]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/23 23:44:20]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/23 23:44:20]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/23 23:44:20]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/23 23:44:20]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/23 23:44:20]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/23 23:44:20]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/23 23:44:20]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:44:20]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:44:20]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:44:20]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:44:20]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:44:20]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 23:44:20]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 23:44:20]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=255,b=255]
+[2021/11/23 23:44:20]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 23:45:14]top.kkoishi.log.Exception: You have not create a image:
+top.kkoishi.g2d.PaintApi.analysis(PaintApi.java:321)
+[2021/11/23 23:45:50]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\Graph.png
+[2021/11/23 23:45:50]top.kkoishi.log.Event:The workspace has changed to C:/Users/DELL/Desktop
+[2021/11/23 23:45:50]top.kkoishi.log.Event:Success to set font
+[2021/11/23 23:45:50]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 23:45:50]top.kkoishi.log.Event:Draw circle(radix = 0) at (500,50)
+[2021/11/23 23:45:50]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/23 23:45:50]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/23 23:45:50]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/23 23:45:50]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/23 23:45:50]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/23 23:45:50]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/23 23:45:50]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=0]
+[2021/11/23 23:45:50]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/23 23:45:50]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:45:50]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:45:50]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:45:50]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:45:50]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:45:50]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:45:50]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=175,b=175]
+[2021/11/23 23:45:51]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 23:45:51]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 23:45:51]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 23:45:51]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 23:47:28]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\Graph.png
+[2021/11/23 23:47:28]top.kkoishi.log.Event:The workspace has changed to C:/Users/DELL/Desktop
+[2021/11/23 23:47:28]top.kkoishi.log.Event:Success to set font
+[2021/11/23 23:47:28]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 23:47:28]top.kkoishi.log.Event:Draw circle(radix = 0) at (500,50)
+[2021/11/23 23:47:28]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/23 23:47:28]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/23 23:47:28]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/23 23:47:28]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/23 23:47:28]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/23 23:47:28]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/23 23:47:28]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=0]
+[2021/11/23 23:47:28]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/23 23:47:28]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:47:28]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:47:28]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:47:28]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:47:28]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:47:28]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:47:28]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=175,b=175]
+[2021/11/23 23:47:28]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 23:47:29]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 23:47:29]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 23:47:29]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 23:48:19]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\Graph.png
+[2021/11/23 23:48:19]top.kkoishi.log.Event:The workspace has changed to C:/Users/DELL/Desktop
+[2021/11/23 23:48:19]top.kkoishi.log.Event:Success to set font
+[2021/11/23 23:48:19]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 23:48:19]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,50)
+[2021/11/23 23:48:19]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/23 23:48:19]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/23 23:48:19]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/23 23:48:19]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/23 23:48:19]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/23 23:48:19]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/23 23:48:19]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=0]
+[2021/11/23 23:48:19]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/23 23:48:19]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:48:19]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:48:19]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:48:19]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:48:19]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:48:19]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:48:19]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=175,b=175]
+[2021/11/23 23:48:19]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 23:48:19]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 23:48:19]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 23:48:19]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 23:51:27]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\Graph.png
+[2021/11/23 23:51:27]top.kkoishi.log.Event:The workspace has changed to C:/Users/DELL/Desktop
+[2021/11/23 23:51:27]top.kkoishi.log.Event:Success to set font
+[2021/11/23 23:51:27]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 23:51:27]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,50)
+[2021/11/23 23:51:27]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/23 23:51:27]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/23 23:51:27]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/23 23:51:27]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/23 23:51:27]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/23 23:51:27]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/23 23:51:27]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=0]
+[2021/11/23 23:51:27]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/23 23:51:27]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:51:27]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:51:27]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:51:27]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:51:27]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:51:27]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/23 23:51:27]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=175,b=175]
+[2021/11/23 23:51:27]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/23 23:51:27]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/23 23:51:27]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/23 23:51:27]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/23 23:55:37]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\new.png
+[2021/11/23 23:56:4]top.kkoishi.log.Event:Success to set font
+[2021/11/23 23:56:14]top.kkoishi.log.Error: Error color type.
+
+[2021/11/23 23:56:23]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/23 23:57:4]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=0,b=0]
+[2021/11/23 23:57:20]top.kkoishi.log.Event: Draw a circle with the color java.awt.Color[r=255,g=0,b=0]
+[2021/11/23 23:57:30]top.kkoishi.log.Event: Draw a rectangle with the color java.awt.Color[r=255,g=0,b=0]
+[2021/11/23 23:57:50]top.kkoishi.log.Event: Draw a polyline with 3points
+[2021/11/24 0:0:58]top.kkoishi.log.Event:Current State:
+	Color=java.awt.Color[r=255,g=0,b=0]
+	Font=java.awt.Font[family=Dialog,name=,style=plain,size=20]
+	Size=top.kkoishi.Dimension[200, 200
+	Location=D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\new.png
+[2021/11/24 0:1:4]top.kkoishi.log.Event:Current State:
+	Color=java.awt.Color[r=255,g=0,b=0]
+	Font=java.awt.Font[family=Dialog,name=,style=plain,size=20]
+	Size=top.kkoishi.Dimension[200, 200
+	Location=D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\new.png
+[2021/11/24 0:1:26]top.kkoishi.log.Event:Draw a circle shape node with the string "r"
+[2021/11/24 0:1:45]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/24 0:2:25]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\newPix.png
+[2021/11/24 0:2:29]top.kkoishi.log.Event: Draw a polygon with 1points
+[2021/11/24 0:2:41]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/24 0:3:57]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\newPix.png
+[2021/11/24 0:6:17]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\newPix.png
+[2021/11/24 0:6:19]top.kkoishi.log.Event: Draw a polygon with 3points
+[2021/11/24 0:6:23]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/24 8:48:39]top.kkoishi.log.Exception: compile D:\ProjectJava\PixPainter\pic\graph.kgraph (文件名、目录名或卷标语法不正确。)
+[2021/11/24 8:49:9]top.kkoishi.log.Exception: compile D:\ProjectJava\PixPainter\pic\graph.kgraph (文件名、目录名或卷标语法不正确。)
+[2021/11/24 8:50:48]top.kkoishi.log.Exception: compile D:\ProjectJava\PixPainter\pic\graph.kgraph (文件名、目录名或卷标语法不正确。)
+[2021/11/24 10:7:10]top.kkoishi.log.Exception: You have not create a image:
+top.kkoishi.g2d.PaintApi.analysis(PaintApi.java:336)
+[2021/11/24 10:7:59]top.kkoishi.log.Exception: You have not create a image:
+top.kkoishi.g2d.PaintApi.analysis(PaintApi.java:336)
+[2021/11/24 10:30:32]top.kkoishi.log.Exception: Illegal File Format
+[2021/11/24 10:33:13]top.kkoishi.log.Exception: Illegal file format!
+[2021/11/24 10:33:26]top.kkoishi.log.Exception: Illegal file format!
+[2021/11/24 10:33:41]top.kkoishi.log.Exception: Illegal file format!
+[2021/11/24 10:34:22]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\.\Graph.png
+[2021/11/24 10:34:22]top.kkoishi.log.Event:The workspace has changed to C:/Users/DELL/Desktop
+[2021/11/24 10:34:22]top.kkoishi.log.Event:Success to set font
+[2021/11/24 10:34:22]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=0,b=0]
+[2021/11/24 10:34:22]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,50)
+[2021/11/24 10:34:22]top.kkoishi.log.Event:Draw circle(radix = 50) at (340,200)
+[2021/11/24 10:34:22]top.kkoishi.log.Event:Draw circle(radix = 50) at (660,200)
+[2021/11/24 10:34:22]top.kkoishi.log.Event:Draw circle(radix = 50) at (180,350)
+[2021/11/24 10:34:22]top.kkoishi.log.Event:Draw circle(radix = 50) at (500,350)
+[2021/11/24 10:34:22]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,350)
+[2021/11/24 10:34:22]top.kkoishi.log.Event:Draw circle(radix = 50) at (820,600)
+[2021/11/24 10:34:22]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=0]
+[2021/11/24 10:34:22]top.kkoishi.log.Event:Draw circle(radix = 100) at (500,800)
+[2021/11/24 10:34:22]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=0,g=255,b=255]
+[2021/11/24 10:34:22]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/24 10:34:22]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/24 10:34:22]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/24 10:34:22]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/24 10:34:22]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=0,g=255,b=255]
+[2021/11/24 10:34:22]top.kkoishi.log.Event:Success to set color tojava.awt.Color[r=255,g=175,b=175]
+[2021/11/24 10:34:22]top.kkoishi.log.Event: Draw a polyline with 5points
+[2021/11/24 10:34:22]top.kkoishi.log.Event: Draw a polyline with 4points
+[2021/11/24 10:34:22]top.kkoishi.log.Event: Draw a line with the color java.awt.Color[r=255,g=175,b=175]
+[2021/11/24 10:34:22]top.kkoishi.log.Event:Export success!The draw board is empty now.
+[2021/11/24 10:35:15]top.kkoishi.log.Event:Create new Image file!Location:D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\newPix.png
+[2021/11/24 10:35:22]top.kkoishi.log.Event:Current State:
+	Color=java.awt.Color[r=255,g=255,b=255]
+	Font=java.awt.Font[family=Dialog,name=Dialog,style=plain,size=12]
+	Size=top.kkoishi.Dimension[200, 200
+	Location=D:\ProjectJava\PixPainter\src\main\java\top\kkoishi\log\..\g2d\newPix.png
