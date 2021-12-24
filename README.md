@@ -4,6 +4,7 @@ Create by KKoishi_
 The way to draw picture is input code in the terminal(Actually, it is JTextArea)
 
 Also,it supports script file,like this(create an undirected-graph):
+
 Upgrade:2021/12/24 10:40
 add kGraph file type.
 now you can use ```node``` and ```direct``` to draw a directed graph faster.
